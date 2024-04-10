@@ -1,0 +1,15 @@
+.botao_operacao {
+  height: 60px;
+  width: 62px;
+  font-size: 32px;
+  border-radius: 16px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #fff;
+  background: #005db2;
+}
+
+.botao_operacao:hover {
+  opacity: .9;
+}

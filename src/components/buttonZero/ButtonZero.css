@@ -1,0 +1,15 @@
+.botao_zero {
+  height: 60px;
+  width: 132px;
+  font-size: 32px;
+  border-radius: 16px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #fff;
+  background: #616161;
+}
+
+.botao_zero:hover {
+  opacity: .9;
+}
